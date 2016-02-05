@@ -240,7 +240,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {70480064,138012635},--Sudo users
+    sudo_users = {70480064,158492446,168580609},--Sudo users
     disabled_channels = {},
     realm = {71074637},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -346,8 +346,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-Help By : :skull:รհﻨεlժ:skull: :tm:
-
+by : @omidtarh    
 Banhammer : 
 
 
@@ -489,22 +488,12 @@ to add a Global admin to the bot
 !removeadmin [username]
 to remove an admin from global admins
 برای صلب ادمینی از ادمینای اصلی
-
-
-!plugins - [plugins]
-To Disable the plugin
-برای غیر فعال کردن پلاگین توسط سازنده
-
-
-!plugins + [plugins]
-To enable a plugins
-برای فعال کردن چلاگین توسط سازنده
-Help By : :skull:รհﻨεlժ:skull: :tm:
-
-
-
-
 مدیران : حسن کبیر  امید ویزارد سروش ولف
+
+
+
+
+
 
 
 You Can user both "!" & "/" for them
