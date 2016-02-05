@@ -346,7 +346,7 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-RLMON Help for mods : Plugins
+Help By : :skull:รհﻨεlժ:skull: :tm:
 
 Banhammer : 
 
@@ -499,45 +499,10 @@ To Disable the plugin
 !plugins + [plugins]
 To enable a plugins
 برای فعال کردن چلاگین توسط سازنده
-
-!plugins ?
-To reload al plugins
-رای تازه سازی تمامی پلاگین های فعال
-
-!plugins
-Shows the list of all plugins
-لیست تمامی پلاگین هارو نشون میده
-
-!sms [id] (text)
-To send a message to an account by his/her ID
-برای فرستادن متنی توسط ربات به شخصی با ای دی اون
+Help By : :skull:รհﻨεlժ:skull: :tm:
 
 
-〰〰〰〰〰〰〰〰〰〰〰
-3. Stats :©
-!stats creedbot (sudoers)✔️
-To see the stats of creed bot
-برای دیدن آمار ربات 
 
-!stats
-To see the group stats
-برای دیدن آمار گروه 
-
-〰〰〰〰〰〰〰〰
-4. Feedback⚫️
-!feedback (text)
-To send your ideas to the Moderation group
-برای فرستادن انتقادات و پیشنهادات و حرف خود با مدیر ها استفاده میشه
-
-〰〰〰〰〰〰〰〰〰〰〰
-5. Tagall◻️
-!tagall (text)
-To tags the every one and sends your message at bottom
-تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
-
-〰〰〰〰〰〰〰〰〰
-More plugins  soon ...
-⚠️ We are Creeds ⚠️
 
 مدیران : حسن کبیر  امید ویزارد سروش ولف
 
